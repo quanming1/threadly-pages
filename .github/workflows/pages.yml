@@ -26,16 +26,7 @@ jobs:
       - name: Upload static site artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: |
-            index.html
-            favicon.svg
-            .nojekyll
-            assets/
-            brand/
-            drawio/
-            excalidraw/
-            visuals/
-          include-hidden-files: true
+          path: .
 
   deploy:
     environment:
