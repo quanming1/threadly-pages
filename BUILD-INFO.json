@@ -1,0 +1,9 @@
+{
+  "version": "0.1.0",
+  "sourceRepository": "https://github.com/quanming1/threadly",
+  "sourceCommit": "63cea0d",
+  "sourceBranch": "release/0.1.0",
+  "siteUrl": "https://quanming1.github.io/threadly-pages/",
+  "generatedAt": "2026-10-19",
+  "staticOnly": true
+}

@@ -1,0 +1,142 @@
+{
+  "name": "知序 · 圆润实心插图",
+  "version": 3,
+  "source": "docs/visual-assets/generated-solid/records",
+  "count": 12,
+  "assets": [
+    {
+      "name": "mindmap-cover",
+      "file": "illustrations/mindmap-cover.svg",
+      "width": 160,
+      "height": 104,
+      "bytes": 3352,
+      "sha256": "500ead8ad11d09064c217f99d854368081113fa6d59e8f900fd04fcf60293945",
+      "geometrySHA256": "09b2586a3e06d66858bd307a205b34d95d9a68a3323bae1a42227b243813534c",
+      "method": "built-in image_gen → binary contour tracing → normalized SVG",
+      "sourceRecord": "docs/visual-assets/generated-solid/records/illustration-mindmap-cover.json"
+    },
+    {
+      "name": "document-cover",
+      "file": "illustrations/document-cover.svg",
+      "width": 160,
+      "height": 104,
+      "bytes": 2500,
+      "sha256": "128a3191e428a252d1183b4b161a2d8a54e5a6581bc3a9c6dee8de9936536256",
+      "geometrySHA256": "c9aa72db9b3402888994225b98874de05fdc13c1d2a27f606f93fea3327d3b93",
+      "method": "built-in image_gen → binary contour tracing → normalized SVG",
+      "sourceRecord": "docs/visual-assets/generated-solid/records/illustration-document-cover.json"
+    },
+    {
+      "name": "knowledge-cover",
+      "file": "illustrations/knowledge-cover.svg",
+      "width": 160,
+      "height": 104,
+      "bytes": 2760,
+      "sha256": "66f7bc48f6cea0a77f7ebc72397c2643a8e4157f897474b40cc78f6d5de8de9d",
+      "geometrySHA256": "af969fac5c2a10fef421b459eb870ae450fdd7b5337976d59173fb3545a31d22",
+      "method": "built-in image_gen → binary contour tracing → normalized SVG",
+      "sourceRecord": "docs/visual-assets/generated-solid/records/illustration-knowledge-cover.json"
+    },
+    {
+      "name": "bank-background",
+      "file": "illustrations/bank-background.svg",
+      "width": 160,
+      "height": 104,
+      "bytes": 1518,
+      "sha256": "71af84ddf26828d598e478e754aab53568f1565616a7f2d617c9e8404cff1c9b",
+      "geometrySHA256": "0ea2883a737aefb5d56930e57db4c1fe50727b6a57dede71b90b4ba5a0a90c33",
+      "method": "built-in image_gen → binary contour tracing → normalized SVG",
+      "sourceRecord": "docs/visual-assets/generated-solid/records/illustration-bank-background.json"
+    },
+    {
+      "name": "bank-concurrency-cover",
+      "file": "illustrations/bank-concurrency-cover.svg",
+      "width": 160,
+      "height": 104,
+      "bytes": 2106,
+      "sha256": "f09dfb6b83474750d650dacb9e5892eaf21e4db0f38937a2ee68dc2c1c2a4fe7",
+      "geometrySHA256": "443210e73bea20144f6121e80514e30adccc53de8911cdd0fc309d379c594617",
+      "method": "built-in image_gen → binary contour tracing → normalized SVG",
+      "sourceRecord": "docs/visual-assets/generated-solid/records/illustration-bank-concurrency-cover.json"
+    },
+    {
+      "name": "bank-algorithms-cover",
+      "file": "illustrations/bank-algorithms-cover.svg",
+      "width": 160,
+      "height": 104,
+      "bytes": 2368,
+      "sha256": "087d32ee1aa65e3f09d487841dcf2c44629adced34ee5323d15651a3344fdd9f",
+      "geometrySHA256": "32f86a313091a310ce809cc3611fe667eaa5dbfba628f6d3a2241614e9c54091",
+      "method": "built-in image_gen → binary contour tracing → normalized SVG",
+      "sourceRecord": "docs/visual-assets/generated-solid/records/illustration-bank-algorithms-cover.json"
+    },
+    {
+      "name": "bank-fundamentals-cover",
+      "file": "illustrations/bank-fundamentals-cover.svg",
+      "width": 160,
+      "height": 104,
+      "bytes": 3262,
+      "sha256": "31d963fa0e1472dd853dd5aa8197a805f9ed95d7f5f1f75ae9727da04621a1d0",
+      "geometrySHA256": "50108c6a8bd5316d3676d20ee6c870d3c73cd0bf105982f581011502b2b00930",
+      "method": "built-in image_gen → binary contour tracing → normalized SVG",
+      "sourceRecord": "docs/visual-assets/generated-solid/records/illustration-bank-fundamentals-cover.json"
+    },
+    {
+      "name": "question-algorithm",
+      "file": "illustrations/question-algorithm.svg",
+      "width": 160,
+      "height": 104,
+      "bytes": 2074,
+      "sha256": "00bc75a5b93ff361c9662e2cef372d0ac3b5b1d9988ca6e2a66c66233e2ebb63",
+      "geometrySHA256": "0f19961f1a5a9d799b963e5822983fba33b511e10a72c016cb99801300f71ffd",
+      "method": "built-in image_gen → binary contour tracing → normalized SVG",
+      "sourceRecord": "docs/visual-assets/generated-solid/records/illustration-question-algorithm.json"
+    },
+    {
+      "name": "question-programming",
+      "file": "illustrations/question-programming.svg",
+      "width": 160,
+      "height": 104,
+      "bytes": 2457,
+      "sha256": "087a47f421256a58cddb3183742fc1302049319f9b95c1c0fd16205501779962",
+      "geometrySHA256": "dd7545f79dc4be27ab050001f44eee31cfeb7333c20945c0b2cd3794f553c41c",
+      "method": "built-in image_gen → binary contour tracing → normalized SVG",
+      "sourceRecord": "docs/visual-assets/generated-solid/records/illustration-question-programming.json"
+    },
+    {
+      "name": "question-single-choice",
+      "file": "illustrations/question-single-choice.svg",
+      "width": 160,
+      "height": 104,
+      "bytes": 1859,
+      "sha256": "f2d169c26977737498c4092bfca2b49285d7ec39349d3430a70ac5e973a4f68f",
+      "geometrySHA256": "9f9ef20e4ed8ba2f9d76645aa3ca4bcf20dc1732803020555766fbadef890158",
+      "method": "built-in image_gen → binary contour tracing → normalized SVG",
+      "sourceRecord": "docs/visual-assets/generated-solid/records/illustration-question-single-choice.json"
+    },
+    {
+      "name": "question-multiple-choice",
+      "file": "illustrations/question-multiple-choice.svg",
+      "width": 160,
+      "height": 104,
+      "bytes": 2702,
+      "sha256": "bfc897688018454df1a842505e67eaaa9310dc34b3d563abb071ffe69213137a",
+      "geometrySHA256": "fa9c3efd339a01cb6268f2ff8a3d0651a91e99aded4d3f0cd13e763392eb233e",
+      "method": "built-in image_gen → binary contour tracing → normalized SVG",
+      "sourceRecord": "docs/visual-assets/generated-solid/records/illustration-question-multiple-choice.json"
+    },
+    {
+      "name": "question-boolean",
+      "file": "illustrations/question-boolean.svg",
+      "width": 160,
+      "height": 104,
+      "bytes": 2986,
+      "sha256": "8cc5441e7dc04c214fc263c17a1aeb0c1640bcf0d911793fd4c582b842f36b10",
+      "geometrySHA256": "0dd33c9111cf2345fb6cf520ed7ea69f5692add32363476279193d04a4c2d3d4",
+      "method": "built-in image_gen → binary contour tracing → normalized SVG",
+      "sourceRecord": "docs/visual-assets/generated-solid/records/illustration-question-boolean.json"
+    }
+  ],
+  "generation": "built-in image_gen, one call per distinct asset",
+  "partial": false
+}
